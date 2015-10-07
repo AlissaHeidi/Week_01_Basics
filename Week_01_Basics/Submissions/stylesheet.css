@@ -1,0 +1,38 @@
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 14px;
+}
+
+h1 {
+	font-family: "Lucida Grande", sans-serif;
+    font-size: 25px;
+    letter-spacing: 3px;
+    text-align: center;
+    padding-top: 30px;
+}
+
+nav {
+	padding: 15px;
+    font-family: "Lucida Grande", sans-serif;
+    font-size: 15px;
+    text-align: center;
+}
+
+
+img {
+	padding-top: 30px;
+    width:100%;
+    height: auto;
+}
+
+body {
+	font-family: "Lucida Grande", sans-serif;
+	font-size: 14px;
+	text-align: center;
+}
+
+footer img{
+    width: 100px;
+
+}
